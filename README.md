@@ -1,0 +1,2 @@
+# Comments on: Maximum Likelihood Estimation of Observer Error-rates using the EM Algorithm
+[Dawid, A. P., and Skene, A. M. 1979. “Maximum Likelihood Estimation of Observer Error-rates using the EM Algorithm.” Applied Statistics 28(1): 20-28.](('https://www.jstor.org/stable/pdf/2346806.pdf',))
